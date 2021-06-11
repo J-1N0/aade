@@ -15,7 +15,7 @@ aade.equivalenceTable = {
 	},
 	3: {
 		'original': 'Bodyguard',
-		'adapted': 'Guarda-Costas'
+		'adapted': 'Segurança'
 	},
 	4: {
 		'original': 'Forensics',
@@ -23,7 +23,7 @@ aade.equivalenceTable = {
 	},
 	5: {
 		'original': 'Nicole',
-		'adapted': 'Viviane'
+		'adapted': 'Cláudia'
 	},
 	6: {
 		'original': 'Payne',
@@ -31,7 +31,7 @@ aade.equivalenceTable = {
 	},
 	7: {
 		'original': 'TV Crew',
-		'adapted': 'Equipe'
+		'adapted': 'Equipe de TV'
 	},
 	8: {
 		'original': 'Kay',
@@ -39,7 +39,7 @@ aade.equivalenceTable = {
 	},
 	9: {
 		'original': 'Doe',
-		'adapted': 'Silva'
+		'adapted': 'da Silva'
 	},
 	10: {
 		'original': 'Knightley',
@@ -51,7 +51,7 @@ aade.equivalenceTable = {
 	},
 	12: {
 		'original': 'Huang',
-		'adapted': 'Huang'
+		'adapted': 'Bao'
 	},
 	13: {
 		'original': 'Guard',
@@ -75,7 +75,7 @@ aade.equivalenceTable = {
 	},
 	18: {
 		'original': 'Sebastian',
-		'adapted': 'Sebastião'
+		'adapted': 'Breno'
 	},
 	19: {
 		'original': 'Simon',
@@ -83,7 +83,7 @@ aade.equivalenceTable = {
 	},
 	20: {
 		'original': 'Patricia',
-		'adapted': 'Patricia'
+		'adapted': 'Patrícia'
 	},
 	21: {
 		'original': 'Sahwit',
@@ -107,7 +107,7 @@ aade.equivalenceTable = {
 	},
 	26: {
 		'original': 'Jeff',
-		'adapted': 'Guga'
+		'adapted': 'Mestre'
 	},
 	27: {
 		'original': 'Kate',
@@ -143,15 +143,15 @@ aade.equivalenceTable = {
 	},
 	35: {
 		'original': 'Karin',
-		'adapted': 'Karin'
+		'adapted': 'Jenifer'
 	},
 	36: {
 		'original': 'Franziska',
-		'adapted': 'Franizika'
+		'adapted': 'Franziska'
 	},
 	37: {
-		'original': 'Brás',
-		'adapted': 'Blaise'
+		'original': 'Blaise',
+		'adapted': 'Brás'
 	},
 	38: {
 		'original': 'Ema',
