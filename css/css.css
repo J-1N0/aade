@@ -317,6 +317,7 @@ td.form-fields textarea.text-field{
 }
 .dialog-preview.ds div.character-name{
 	width: 44px;
+	font-family: "NameTags";
 	text-align: center;
 	bottom: 61px;
 	left: 2px;
